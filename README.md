@@ -42,4 +42,3 @@ Fühlen Sie sich frei, die Seite ["issues page"](https://github.com/Icky17/AllKe
 ## 📝 Lizenz
 
 Copyright © 2022 [Jairo Morales](https://github.com/Icky17).<br />
-Dieses Projekt ist [MIT](https://github.com/Icky17/AllKeeper-Backup-Tool/blob/main/LICENSE)-lizenziert.
