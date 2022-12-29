@@ -35,3 +35,4 @@ Fühlen Sie sich frei, die Seite ["issues page"](https://github.com/Icky17/AllKe
 
 - Github: [@Icky17](https://github.com/Icky17)
 - Linkedin: [@Jairo Morales Pérez](https://www.linkedin.com/in/jairo-morales-p%C3%A9rez-67949b216/)
+- Website: https://icky17.github.io/
