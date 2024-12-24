@@ -18,6 +18,8 @@
   </a>
 </p>
 
+![Feature Image](.github/assets/allkeeper.png)
+
 ## 📰 About the project
 
 I created the project for a project work in the vocational school. The script can create a backup and intercept incorrect entries. You can compress the data as well as rename it. It also creates a log file to view the processes.

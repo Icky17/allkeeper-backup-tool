@@ -18,7 +18,7 @@
   </a>
 </p>
 
-
+![Feature Image](.github/assets/allkeeper.png)
 
 ## 📰 Über das Projekt
 
