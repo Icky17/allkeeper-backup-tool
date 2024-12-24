@@ -29,10 +29,10 @@ Das Projekt habe ich für eine Projektarbeit in der Berufsschule erstellt. Das S
 Beiträge, Probleme und Funktionsanfragen sind willkommen.<br />
 Fühlen Sie sich frei, die Seite ["issues page"](https://github.com/Icky17/AllKeeper-Backup-Tool/issues) zu überprüfen, wenn Sie einen Beitrag leisten möchten.<br />
 
-## Autor
+## 👨‍💻 Autor
 
 👤 **Jairo Morales**
 
 - Github: [@Icky17](https://github.com/Icky17)
 - Linkedin: [@Jairo Morales Pérez](https://www.linkedin.com/in/jairo-morales-p%C3%A9rez-67949b216/)
-- Website: https://icky17.github.io/
+- Website: https://jairomorales.ch/

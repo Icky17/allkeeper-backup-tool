@@ -27,9 +27,10 @@ I created the project for a project work in the vocational school. The script ca
 Contributions, issues and feature requests are welcome.<br />
 Feel free to check [issues page](https://github.com/Icky17/AllKeeper-Backup-Tool/issues) if you want to contribute.<br />
 
-## Author
+## 👨‍💻 Autor
 
 👤 **Jairo Morales**
 
 - Github: [@Icky17](https://github.com/Icky17)
 - Linkedin: [@Jairo Morales Pérez](https://www.linkedin.com/in/jairo-morales-p%C3%A9rez-67949b216/)
+- Website: https://jairomorales.ch/
